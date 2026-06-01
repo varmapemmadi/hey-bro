@@ -1,3 +1,5 @@
 hello jenkins
 
 trigger when the push
+
+pull scm
